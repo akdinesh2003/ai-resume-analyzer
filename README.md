@@ -31,16 +31,6 @@ This is a static web project built with HTML, Tailwind CSS, and vanilla JavaScri
 
 That's it! The application will be running locally on your machine.
 
-## 📸 Screenshots
-
-| Landing Page & Upload                                       | Job Matches & Market Insights                              |
-| ----------------------------------------------------------- | ---------------------------------------------------------- |
-| ![Upload Section](https://i.imgur.com/rS4z0Vp.png) | ![Job Matches](https://i.imgur.com/rFh3c9u.png)         |
-
-| ATS Score & AI Suggestions                                  | Resume Drop Zone                                           |
-| ----------------------------------------------------------- | ---------------------------------------------------------- |
-| ![ATS Score](https://i.imgur.com/2sQ9k42.png)           | ![Resume Drop](https://i.imgur.com/M5a4g6p.png)             |
-
 ## 🛠️ Technologies Used
 
 -   **HTML5**
